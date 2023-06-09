@@ -116,7 +116,7 @@ namespace HH
 
             app.UseCors();
             /*
-            // ʹ��������֤�м��
+            // 
             app.UseAuthentication();
             */
             //app.UseAuthorization();
